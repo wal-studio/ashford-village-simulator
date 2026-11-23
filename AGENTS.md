@@ -116,3 +116,8 @@ After implementation, record changed files, tests actually run, results, known g
 
 ## Mandatory workflow gateway
 Before each task, read and follow [Workflow Gateway](docs/WORKFLOW_GATEWAY.md), [Execution Policy](docs/WORKFLOW_EXECUTION_POLICY.md), and [Forensic and Verification Policy](docs/FORENSIC_AND_VERIFICATION_POLICY.md). These generic execution controls supplement the Ashford-specific specifications above and do not import another project's architecture or requirements.
+
+<!-- GLOBAL-DEVELOPMENT-BASELINE:START -->
+
+공통 기준점·브랜치 전파 규정은 [GLOBAL_DEVELOPMENT_BASELINE.md](GLOBAL_DEVELOPMENT_BASELINE.md)를 따른다. 신규 브랜치 생성 시 이 문서를 복사하고 기존 브랜치의 누락을 복구한다.
+<!-- GLOBAL-DEVELOPMENT-BASELINE:END -->
